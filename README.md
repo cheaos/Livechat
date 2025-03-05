@@ -43,19 +43,19 @@ Ao fazer o login, utilize como o primeiro login usuário admin senha admin
 
 **** TESTE ******
 
-# **📌 Desafio Técnico – Desenvolvedor Full Stack**
-## **Objetivo**
+ **📌 Desafio Técnico – Desenvolvedor Full Stack**
+ **Objetivo**
 Criar um **chat em tempo real** com autenticação de usuários, listagem de usuários disponíveis e trocas de mensagens.
 
-## 📌 Como Participar
+ 📌 Como Participar
 1. **Fork** este repositório para a sua conta do GitHub.
 2. Desenvolva a solução no seu fork.
 3. Após finalizar, **abra um Pull Request (PR)** para este repositório.
 4. Aguarde o feedback da equipe.
 
-## **🎯 Requisitos do Desafio**
+ **🎯 Requisitos do Desafio**
 
-### **1️⃣ Backend**
+ **1️⃣ Backend**
 Criar uma **API REST + WebSockets** utilizando **C# (.NET)** ou **Java (Spring Boot)** com as seguintes funcionalidades:
 - **Autenticação e Registro de Usuários**  
   - Criar um endpoint para **login** e outro para **cadastro de usuários**.  
@@ -68,7 +68,7 @@ Criar uma **API REST + WebSockets** utilizando **C# (.NET)** ou **Java (Spring B
 
 ---
 
-### **2️⃣ Frontend**
+ **2️⃣ Frontend**
 Criar uma **aplicação web** utilizando **Vue.js** com três telas:
 - **Tela de Login**
   - Input de **usuário e senha**.
@@ -82,7 +82,7 @@ Criar uma **aplicação web** utilizando **Vue.js** com três telas:
 
 ---
 
-### **3️⃣ Docker**
+ **3️⃣ Docker**
 Criar um **Dockerfile e um docker-compose.yml** para subir a aplicação de forma rápida.
 
 - O **backend** deve rodar no **.NET Core** ou **Spring Boot**.
@@ -92,22 +92,22 @@ Criar um **Dockerfile e um docker-compose.yml** para subir a aplicação de form
 
 ---
 
-## **🛠 Tecnologias Sugeridas**
-### **Backend**
+ **🛠 Tecnologias Sugeridas**
+ **Backend**
 ✅ **C# com .NET Core** (ou) **Java 17+ com Spring Boot**  
 ✅ **Autenticação com JWT**  
 ✅ **WebSockets para mensagens em tempo real**  
 ✅ **Banco de dados** (MongoDB, PostgreSQL, ou outro de sua escolha)  
 ✅ **Docker para containerização**
 
-### **Frontend**
+ **Frontend**
 ✅ **Vue.js**  
 ✅ **Consumo de APIs via Axios ou Fetch**  
 ✅ **Uso de WebSockets para chat em tempo real**  
 
 ---
 
-## **📌 O que será avaliado?**
+ 📌 O que será avaliado?**
 ✔ **Código bem estruturado e organizado**  
 ✔ **Boas práticas de desenvolvimento** (Clean Code, SOLID, etc.)  
 ✔ **Segurança na autenticação e API**  
@@ -118,8 +118,5 @@ Criar um **Dockerfile e um docker-compose.yml** para subir a aplicação de form
 
 ---
 
-## ** ⏳ Prazo **
+ ** ⏳ Prazo **
 - **5** dias.
-
-
-
